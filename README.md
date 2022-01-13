@@ -1,4 +1,4 @@
-# **DSCI 100 Project Proposal, Group 9**
+# **Project Overview**
 _______________________
 # ***Exploring factors that affect students' final math grade***
 ## *Introduction*
